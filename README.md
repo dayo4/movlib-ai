@@ -1,4 +1,4 @@
-## Video Library with AI assistant integrations built in React.js
+## Video library web app with AI assistant integrations built in React.js
 [Live Preview](https://filmpire-ssk.netlify.app/)
 
 ## About
